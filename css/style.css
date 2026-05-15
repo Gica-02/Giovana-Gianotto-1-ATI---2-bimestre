@@ -31,11 +31,11 @@ body {
       rgba(124, 58, 237, 0.16),
       transparent 22%
     ),
-    linear-gradient(135deg, #0b1223 0%, #1f3a70 45%, #255aa5 100%);
+    linear-gradient(135deg, #769fce 0%, #0c548f 45%, #000000 100%);
 }
 
 header {
-  background: rgba(8, 18, 38, 0.95);
+  background: rgba(7, 43, 2, 0.95);
   padding: 36px 20px;
   text-align: center;
   border-bottom: 1px solid rgba(248, 250, 252, 0.08);
@@ -148,4 +148,8 @@ footer {
     gap: 18px;
     padding: 18px 26px;
   }
+}
+
+body {
+  margin: 0;
 }
