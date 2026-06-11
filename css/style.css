@@ -1,8 +1,8 @@
 :root {
   --bg-dark: #0b1223;
-  --bg-mid: #002b0b;
-  --accent: #ff7a59;
-  --accent-soft: #7c3aed;
+  --bg-mid: #00063f;
+  --accent: #37eb0a;
+  --accent-soft: #0348a3;
   --surface: rgba(255, 255, 255, 0.08);
   --text-light: #f8fafc;
   --text-muted: rgba(248, 250, 252, 0.8);
@@ -31,7 +31,7 @@ body {
       rgba(124, 58, 237, 0.16),
       transparent 22%
     ),
-    linear-gradient(135deg, #769fce 0%, #0c548f 45%, #000000 100%);
+    linear-gradient(135deg, #018112 0%, #003d8d 45%, #000000 100%);
 }
 
 header {
